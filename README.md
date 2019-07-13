@@ -9,7 +9,7 @@ First, you need to clone or download the repo to your computer. With
 git clone https://github.com/WomensCodingCircle/WCC-poster.git
 ```
 
-you clone the repo in a way you can use your github credentials to push changes.
+you clone it in a way you can use your github credentials to push changes.
 
 Then you need to make sure, you have the command ``pdflatex`` available in your commandline. With
 
